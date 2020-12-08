@@ -1,0 +1,19 @@
+{
+  "name": "platform-actions",
+  "version": "1.0.0",
+  "description": "platform actions in gh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo ok"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manolo/platform-actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manolo/platform-actions/issues"
+  },
+  "homepage": "https://github.com/manolo/platform-actions#readme"
+}
